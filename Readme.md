@@ -1,5 +1,9 @@
 # 웹 어셈블리와 Rust
 
+## 참고자료
+
+[TOAST UI - Rust로 SPA(Single Page Applications)만들기(원문링크 포함)](https://ui.toast.com/posts/ko_20200818)
+
 ## Watch 모드
 
 터미널 두개를 실행시킨다.
